@@ -77,6 +77,7 @@ activities = {
     }
 }
 
+ # teste
 
 @app.get("/")
 def root():
