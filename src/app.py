@@ -39,6 +39,7 @@ activities = {
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
     },
+    
     # Sports related activities
     "Soccer Team": {
         "description": "Join the school soccer team and compete in local leagues",
